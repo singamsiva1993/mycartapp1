@@ -1,0 +1,5 @@
+c:\users\test2233\documents\visual studio 2012\Projects\MyCartApp1\MyCartApp1\bin\MyCartApp1.dll
+c:\users\test2233\documents\visual studio 2012\Projects\MyCartApp1\MyCartApp1\bin\MyCartApp1.pdb
+c:\users\test2233\documents\visual studio 2012\Projects\MyCartApp1\MyCartApp1\obj\Debug\MyCartApp1.csprojResolveAssemblyReference.cache
+c:\users\test2233\documents\visual studio 2012\Projects\MyCartApp1\MyCartApp1\obj\Debug\MyCartApp1.dll
+c:\users\test2233\documents\visual studio 2012\Projects\MyCartApp1\MyCartApp1\obj\Debug\MyCartApp1.pdb
